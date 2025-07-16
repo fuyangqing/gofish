@@ -1,1 +1,1 @@
-FROM gophish/gophish:v0.12.1
+FROM gophish/gophish:latest
